@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.tenor.com/nqMC-PZUsUwAAAAC/studio-ghibli.gif" align="center" style="width: 100%" />
+</div>  
 
-<!--
-**kelvinandreas/kelvinandreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div align="center">Hi 👋, I'm Kelvin Andreas</div>  
 
-Here are some ideas to get you started:
+- 💼 Currently working at Bina Nusantara IT Division  
+- 👨‍💻 Software Engineer | Building, learning, and exploring new technologies  
+- 🎓 Computer Science student, focusing on Artificial Intelligence at Bina Nusantara University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <div align="left">Connect with me</div>
+<div align="left">
+  <a href="https://linkedin.com/in/kelvinandreas" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-right: 5px;" />
+  </a>
+</div>
+<br/>  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kelvinandreas&style=flat-square&color=blue" alt="Profile Views" />
+</div>
